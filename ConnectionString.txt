@@ -1,0 +1,1 @@
+Data Source=MAHA\SQLEXPRESS02;Initial Catalog=ADODOTNET;Integrated Security=True;Trust Server Certificate=True
